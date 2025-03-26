@@ -1,0 +1,9 @@
+<div class="compartir">
+    <p>Comparte esta página:</p>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https://tu-pagina.com" target="_blank">
+        Facebook
+    </a>
+    <a href="https://twitter.com/intent/tweet?url=https://tu-pagina.com&text=¡Mira este sitio!" target="_blank">
+        Twitter
+    </a>
+</div>
